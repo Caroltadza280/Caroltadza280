@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @Caroltadza280
-- 👀 I’m interested in business and people to get into my new business
-- 🌱 I’m currently learning edition 
-- 💞️ I’m looking to collaborate wordpress and help you earn some extra money on my line!
-- 📫 How to reach me @caroltadza (19)935013114
-- 😄 Pronouns: Carol,Carol do linha kkk
-- ⚡ Fun fact: Estou iniciando várias coisas e apanhando do html ainda de vez enquando...
-- Vergonha alheia kkkkkkkkkkkkkk
+Hi, I'm Carol 👋
+Entrepreneur, digital creator and founder of Mercado Views / hiperviews
 
-<!---
-Caroltadza280/Caroltadza280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My journey with the internet started back in 2010, when I had my first experience with Joomla.
+
+After that, I created and managed my own blog. It didn't become a successful business, but it gave me something important: my first real experience creating, publishing and managing content on the web.
+
+Over the years, I continued exploring the digital world and built different projects using WordPress, learning through practice, experimentation and real ideas.
+
+Today, that journey has reached a completely different level.
+
+I'm no longer just building websites.
+
+I'm learning how to build a real web application from the ground up.
